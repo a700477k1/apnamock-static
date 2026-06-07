@@ -1,0 +1,12 @@
+{
+  "version": "2026.06.07.20.43.26",
+  "updated_at": "2026-06-07T15:13:26.261Z",
+  "files": {
+    "tests_index": "index/tests-index.json",
+    "version": "index/version.json",
+    "build_log": "index/build-log.json",
+    "pool_index": "custom-tests/index/pool-index.json",
+    "exam_patterns": "custom-tests/index/exam-patterns.json",
+    "custom_test_presets": "custom-tests/index/custom-test-presets.json"
+  }
+}
