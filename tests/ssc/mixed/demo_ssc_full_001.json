@@ -1,0 +1,465 @@
+{
+  "test_id": "demo_ssc_full_001",
+  "meta": {
+    "title_hi": "???? ?????? ??? ????? 01",
+    "title_en": "Demo SSC Full Test 01",
+    "exam_group": "SSC",
+    "subject": "Mixed",
+    "topic": "Mixed",
+    "paper_type": "Full Mock",
+    "year": "2026",
+    "language_mode": "Bilingual",
+    "total_questions": 4,
+    "total_marks": 4,
+    "duration_minutes": 4,
+    "difficulty": "Easy",
+    "status": "active",
+    "thumbnail_url": "",
+    "description_hi": "?? ?? ???? ??? ??? ????? ?? ?? ??? ?? JSON ?????? ?????? ?? ??? ????? ??? ???",
+    "description_en": "This is a demo full mock test created to verify the sheet and JSON structure.",
+    "tags": "demo,ssc,full,mock,bilingual",
+    "updated_at": "2026-06-05T16:58:32.095Z"
+  },
+  "sections": [
+    {
+      "section_id": "demo_sec_ga",
+      "section_name_hi": "??????? ?????",
+      "section_name_en": "General Awareness",
+      "section_order": 1,
+      "section_total_questions": 1,
+      "section_total_marks": 1,
+      "section_instructions_hi": "??? ????? ??????",
+      "section_instructions_en": "Choose the correct answer.",
+      "status": "active",
+      "section_duration_minutes": 0,
+      "section_slug": "general-awareness",
+      "color_code": "#1a56db",
+      "topic_focus": "GK"
+    },
+    {
+      "section_id": "demo_sec_quant",
+      "section_name_hi": "????",
+      "section_name_en": "Quantitative Aptitude",
+      "section_order": 2,
+      "section_total_questions": 1,
+      "section_total_marks": 1,
+      "section_instructions_hi": "??? ????? ??????",
+      "section_instructions_en": "Choose the correct answer.",
+      "status": "active",
+      "section_duration_minutes": 0,
+      "section_slug": "quantitative-aptitude",
+      "color_code": "#f97316",
+      "topic_focus": "Arithmetic"
+    },
+    {
+      "section_id": "demo_sec_english",
+      "section_name_hi": "????????",
+      "section_name_en": "English",
+      "section_order": 3,
+      "section_total_questions": 1,
+      "section_total_marks": 1,
+      "section_instructions_hi": "??? ????? ??????",
+      "section_instructions_en": "Choose the correct answer.",
+      "status": "active",
+      "section_duration_minutes": 0,
+      "section_slug": "english",
+      "color_code": "#16a34a",
+      "topic_focus": "Vocabulary"
+    },
+    {
+      "section_id": "demo_sec_reasoning",
+      "section_name_hi": "???????",
+      "section_name_en": "Reasoning",
+      "section_order": 4,
+      "section_total_questions": 1,
+      "section_total_marks": 1,
+      "section_instructions_hi": "??? ????? ??????",
+      "section_instructions_en": "Choose the correct answer.",
+      "status": "active",
+      "section_duration_minutes": 0,
+      "section_slug": "reasoning",
+      "color_code": "#dc2626",
+      "topic_focus": "Logic"
+    }
+  ],
+  "marking_scheme": {
+    "scheme_id": "demo_scheme_001",
+    "subexam_type": "Full Mock",
+    "marks_per_question": 1,
+    "negative_marking": 0.25,
+    "full_marks": 4,
+    "status": "active",
+    "rules_text_hi": "??? ????? ?? 1 ???, ??? ????? ?? 0.25 ??? ?? ??????? ?????????",
+    "rules_text_en": "1 mark for each correct answer and 0.25 negative marking for each wrong answer.",
+    "passing_marks": "2",
+    "is_default": "yes",
+    "applicable_from": "Fri Jun 05 2026 00:00:00 GMT+0530 (India Standard Time)",
+    "applicable_to": ""
+  },
+  "instructions": [
+    {
+      "instruction_id": "demo_ins_001",
+      "instruction_no": 1,
+      "text": {
+        "hi": "???????? ?????? ???? ??? ?? ???",
+        "en": "Each question carries equal marks."
+      },
+      "instruction_type": "general",
+      "status": "active",
+      "priority": 1,
+      "icon": "fa-list-check",
+      "is_mandatory": "yes"
+    },
+    {
+      "instruction_id": "demo_ins_002",
+      "instruction_no": 2,
+      "text": {
+        "hi": "??? ????? ?? ??????? ???????? ???? ?????",
+        "en": "Negative marking will be applied for wrong answers."
+      },
+      "instruction_type": "marking",
+      "status": "active",
+      "priority": 2,
+      "icon": "fa-circle-minus",
+      "is_mandatory": "yes"
+    },
+    {
+      "instruction_id": "demo_ins_003",
+      "instruction_no": 3,
+      "text": {
+        "hi": "??? ?????? ???? ?? ????? ???-????? ?? ??????",
+        "en": "The test will auto-submit when the time is over."
+      },
+      "instruction_type": "time",
+      "status": "active",
+      "priority": 3,
+      "icon": "fa-clock",
+      "is_mandatory": "yes"
+    },
+    {
+      "instruction_id": "demo_ins_004",
+      "instruction_no": 4,
+      "text": {
+        "hi": "????? ???? ???? ?? ???? ???? ??????? ???? ??????",
+        "en": "Select your preferred language before starting the test."
+      },
+      "instruction_type": "language",
+      "status": "active",
+      "priority": 4,
+      "icon": "fa-language",
+      "is_mandatory": "yes"
+    },
+    {
+      "instruction_id": "demo_ins_005",
+      "instruction_no": 5,
+      "text": {
+        "hi": "Previous, Clear Response, Mark for Review, Save & Next, Submit ?? Quit Test ??? ?? ??? ????? ?????",
+        "en": "Use the Previous, Clear Response, Mark for Review, Save & Next, Submit, and Quit Test buttons properly."
+      },
+      "instruction_type": "navigation",
+      "status": "active",
+      "priority": 5,
+      "icon": "fa-angles-right",
+      "is_mandatory": "yes"
+    },
+    {
+      "instruction_id": "demo_ins_006",
+      "instruction_no": 6,
+      "text": {
+        "hi": "????? ???? ???? ?? ???? ??????? ????? ?? ??????",
+        "en": "Read the instructions carefully before starting the test."
+      },
+      "instruction_type": "submission",
+      "status": "active",
+      "priority": 6,
+      "icon": "fa-circle-info",
+      "is_mandatory": "yes"
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "demo_q_001",
+      "test_id": "demo_ssc_full_001",
+      "section_id": "demo_sec_ga",
+      "question_no": 1,
+      "text": {
+        "hi": "???? ?? ??????? ???? ???",
+        "en": "What is the capital of India?"
+      },
+      "question_image_url": "",
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "hi": "?????",
+            "en": "Mumbai"
+          },
+          "image_url": ""
+        },
+        {
+          "id": "B",
+          "text": {
+            "hi": "?? ??????",
+            "en": "New Delhi"
+          },
+          "image_url": ""
+        },
+        {
+          "id": "C",
+          "text": {
+            "hi": "???????",
+            "en": "Kolkata"
+          },
+          "image_url": ""
+        },
+        {
+          "id": "D",
+          "text": {
+            "hi": "??????",
+            "en": "Chennai"
+          },
+          "image_url": ""
+        }
+      ],
+      "correct_option": "B",
+      "marks": 1,
+      "negative_marks": 0.25,
+      "explanation": {
+        "hi": "???? ?? ??????? ?? ?????? ???",
+        "en": "The capital of India is New Delhi."
+      },
+      "topic": "India GK",
+      "subtopic": "Capital Cities",
+      "difficulty": "Easy",
+      "paper_type": "Full Mock",
+      "year": "2026",
+      "language_mode": "Bilingual",
+      "status": "active",
+      "source_test_id": "demo_ssc_full_001",
+      "source_question_no": "1",
+      "solution_image_url": "",
+      "reference_url": "",
+      "tags": "capital,india,gk",
+      "custom_eligible": "yes",
+      "custom_weight": 1,
+      "usage_count": 0,
+      "last_used_at": ""
+    },
+    {
+      "question_id": "demo_q_002",
+      "test_id": "demo_ssc_full_001",
+      "section_id": "demo_sec_quant",
+      "question_no": 2,
+      "text": {
+        "hi": "2 + 2 = ?",
+        "en": "2 + 2 = ?"
+      },
+      "question_image_url": "",
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "hi": "3",
+            "en": "3"
+          },
+          "image_url": ""
+        },
+        {
+          "id": "B",
+          "text": {
+            "hi": "5",
+            "en": "5"
+          },
+          "image_url": ""
+        },
+        {
+          "id": "C",
+          "text": {
+            "hi": "4",
+            "en": "4"
+          },
+          "image_url": ""
+        },
+        {
+          "id": "D",
+          "text": {
+            "hi": "6",
+            "en": "6"
+          },
+          "image_url": ""
+        }
+      ],
+      "correct_option": "C",
+      "marks": 1,
+      "negative_marks": 0.25,
+      "explanation": {
+        "hi": "2 + 2 = 4 ???? ???",
+        "en": "2 + 2 = 4."
+      },
+      "topic": "Arithmetic",
+      "subtopic": "Addition",
+      "difficulty": "Easy",
+      "paper_type": "Full Mock",
+      "year": "2026",
+      "language_mode": "Bilingual",
+      "status": "active",
+      "source_test_id": "demo_ssc_full_001",
+      "source_question_no": "2",
+      "solution_image_url": "",
+      "reference_url": "",
+      "tags": "math,addition,arithmetic",
+      "custom_eligible": "yes",
+      "custom_weight": 1,
+      "usage_count": 0,
+      "last_used_at": ""
+    },
+    {
+      "question_id": "demo_q_003",
+      "test_id": "demo_ssc_full_001",
+      "section_id": "demo_sec_english",
+      "question_no": 3,
+      "text": {
+        "hi": "Happy ?? ????? ???? ??????",
+        "en": "Select the antonym of Happy."
+      },
+      "question_image_url": "",
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "hi": "Joyful",
+            "en": "Joyful"
+          },
+          "image_url": ""
+        },
+        {
+          "id": "B",
+          "text": {
+            "hi": "Sad",
+            "en": "Sad"
+          },
+          "image_url": ""
+        },
+        {
+          "id": "C",
+          "text": {
+            "hi": "Bright",
+            "en": "Bright"
+          },
+          "image_url": ""
+        },
+        {
+          "id": "D",
+          "text": {
+            "hi": "Fast",
+            "en": "Fast"
+          },
+          "image_url": ""
+        }
+      ],
+      "correct_option": "B",
+      "marks": 1,
+      "negative_marks": 0.25,
+      "explanation": {
+        "hi": "Happy ?? ????? Sad ???",
+        "en": "The antonym of Happy is Sad."
+      },
+      "topic": "Vocabulary",
+      "subtopic": "Antonyms",
+      "difficulty": "Easy",
+      "paper_type": "Full Mock",
+      "year": "2026",
+      "language_mode": "Bilingual",
+      "status": "active",
+      "source_test_id": "demo_ssc_full_001",
+      "source_question_no": "3",
+      "solution_image_url": "",
+      "reference_url": "",
+      "tags": "english,vocabulary,antonyms",
+      "custom_eligible": "yes",
+      "custom_weight": 1,
+      "usage_count": 0,
+      "last_used_at": ""
+    },
+    {
+      "question_id": "demo_q_004",
+      "test_id": "demo_ssc_full_001",
+      "section_id": "demo_sec_reasoning",
+      "question_no": 4,
+      "text": {
+        "hi": "???? ?????? ??????",
+        "en": "Choose the odd one out."
+      },
+      "question_image_url": "",
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "hi": "???",
+            "en": "Apple"
+          },
+          "image_url": ""
+        },
+        {
+          "id": "B",
+          "text": {
+            "hi": "????",
+            "en": "Banana"
+          },
+          "image_url": ""
+        },
+        {
+          "id": "C",
+          "text": {
+            "hi": "??",
+            "en": "Mango"
+          },
+          "image_url": ""
+        },
+        {
+          "id": "D",
+          "text": {
+            "hi": "???",
+            "en": "Car"
+          },
+          "image_url": ""
+        }
+      ],
+      "correct_option": "D",
+      "marks": 1,
+      "negative_marks": 0.25,
+      "explanation": {
+        "hi": "???, ???? ?? ?? ?? ???, ???? ??? ?? ???? ???",
+        "en": "Apple, Banana and Mango are fruits, while Car is not a fruit."
+      },
+      "topic": "Odd One Out",
+      "subtopic": "Classification",
+      "difficulty": "Easy",
+      "paper_type": "Full Mock",
+      "year": "2026",
+      "language_mode": "Bilingual",
+      "status": "active",
+      "source_test_id": "demo_ssc_full_001",
+      "source_question_no": "4",
+      "solution_image_url": "",
+      "reference_url": "",
+      "tags": "reasoning,classification,odd-one-out",
+      "custom_eligible": "yes",
+      "custom_weight": 1,
+      "usage_count": 0,
+      "last_used_at": ""
+    }
+  ],
+  "similar_tests": [
+    {
+      "map_id": "demo_map_001",
+      "test_id": "demo_ssc_full_001",
+      "similar_test_id": "demo_ssc_full_002",
+      "relation_type": "same_exam",
+      "priority": 1,
+      "status": "active",
+      "reason": "Similar SSC full mock test",
+      "score_weight": 10
+    }
+  ]
+}
