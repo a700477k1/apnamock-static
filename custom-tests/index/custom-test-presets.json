@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "preset_id": "demo_preset_full_001",
+    "preset_name_hi": "???? ??? ?????",
+    "preset_name_en": "Demo Full Test",
+    "preset_type": "full_length",
+    "exam_group": "SSC",
+    "subject": "Mixed",
+    "section_name": "All",
+    "topic": "",
+    "paper_type": "Mixed",
+    "year_from": "2026",
+    "year_to": "2026",
+    "difficulty": "Mixed",
+    "language_mode": "Bilingual",
+    "question_count": 4,
+    "time_mode": "auto",
+    "duration_minutes": 4,
+    "shuffle_questions": "yes",
+    "shuffle_options": "yes",
+    "use_exam_pattern": "yes",
+    "pattern_id": "",
+    "status": "active",
+    "description_hi": "???? ??? ???? ????? ????? ????????",
+    "description_en": "Demo full-length custom test preset.",
+    "tags": "demo,full-length,ssc",
+    "sort_order": 1
+  }
+]
