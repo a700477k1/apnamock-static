@@ -1,0 +1,85 @@
+{
+  "version": "2026.06.08.19.40.59",
+  "updated_at": "2026-06-08T14:10:59.836Z",
+  "count": 6,
+  "sections": [
+    {
+      "pattern_id": "ssc_english_001",
+      "section_order": 1,
+      "section_name_hi": "अंग्रेजी",
+      "section_name_en": "English",
+      "question_count": 15,
+      "marks_per_question": 1,
+      "negative_marks": 0.25,
+      "section_duration_minutes": 15,
+      "section_pool_key": "SSC_ENGLISH",
+      "is_mandatory": "yes",
+      "status": "active"
+    },
+    {
+      "pattern_id": "ssc_full_001",
+      "section_order": 1,
+      "section_name_hi": "सामान्य ज्ञान",
+      "section_name_en": "General Awareness",
+      "question_count": 25,
+      "marks_per_question": 1,
+      "negative_marks": 0.25,
+      "section_duration_minutes": 0,
+      "section_pool_key": "SSC_GA",
+      "is_mandatory": "yes",
+      "status": "active"
+    },
+    {
+      "pattern_id": "ssc_full_001",
+      "section_order": 2,
+      "section_name_hi": "गणित",
+      "section_name_en": "Quantitative Aptitude",
+      "question_count": 25,
+      "marks_per_question": 1,
+      "negative_marks": 0.25,
+      "section_duration_minutes": 0,
+      "section_pool_key": "SSC_QUANT",
+      "is_mandatory": "yes",
+      "status": "active"
+    },
+    {
+      "pattern_id": "ssc_full_001",
+      "section_order": 3,
+      "section_name_hi": "अंग्रेजी",
+      "section_name_en": "English",
+      "question_count": 25,
+      "marks_per_question": 1,
+      "negative_marks": 0.25,
+      "section_duration_minutes": 0,
+      "section_pool_key": "SSC_ENGLISH",
+      "is_mandatory": "yes",
+      "status": "active"
+    },
+    {
+      "pattern_id": "ssc_full_001",
+      "section_order": 4,
+      "section_name_hi": "रीजनिंग",
+      "section_name_en": "Reasoning",
+      "question_count": 25,
+      "marks_per_question": 1,
+      "negative_marks": 0.25,
+      "section_duration_minutes": 0,
+      "section_pool_key": "SSC_REASONING",
+      "is_mandatory": "yes",
+      "status": "active"
+    },
+    {
+      "pattern_id": "ssc_reasoning_001",
+      "section_order": 1,
+      "section_name_hi": "रीजनिंग",
+      "section_name_en": "Reasoning",
+      "question_count": 25,
+      "marks_per_question": 1,
+      "negative_marks": 0.25,
+      "section_duration_minutes": 20,
+      "section_pool_key": "SSC_REASONING",
+      "is_mandatory": "yes",
+      "status": "active"
+    }
+  ]
+}
