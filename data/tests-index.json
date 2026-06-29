@@ -1,0 +1,1084 @@
+{
+  "tests": [
+    {
+      "test_id": "ssc_cgl_2021_1",
+      "id": "ssc_cgl_2021_1",
+      "exam_group": "SSC",
+      "exam": "SSC CGL",
+      "paper_type": "PYQ",
+      "year": 2021,
+      "subject": "General Intelligence",
+      "topic": "Mixed",
+      "category": "Full Test",
+      "title": "SSC CGL Mock Test 1",
+      "title_i18n": {
+        "en": "SSC CGL Mock Test 1",
+        "hi": "एसएससी सीजीएल मॉक टेस्ट 1"
+      },
+      "language_mode": "bilingual",
+      "duration": 60,
+      "negativeMarking": 0.25,
+      "negative_marking": 0.25,
+      "difficulty": "Moderate",
+      "questions": 10,
+      "totalQuestions": 10,
+      "marks": 10,
+      "totalMarks": 10,
+      "question_count": 10,
+      "difficulty_counts": {
+        "Easy": 0,
+        "Moderate": 10,
+        "Hard": 0
+      },
+      "section_difficulty_counts": {
+        "Quantitative Aptitude": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Intelligence": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "English": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Knowledge": {
+          "Easy": 0,
+          "Moderate": 4,
+          "Hard": 0
+        }
+      },
+      "sections": [
+        {
+          "section_id": "General Intelligence",
+          "title": {
+            "en": "General Intelligence",
+            "hi": "सामान्य बुद्धिमत्ता"
+          },
+          "sort_order": 1
+        },
+        {
+          "section_id": "Quantitative Aptitude",
+          "title": {
+            "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 2
+        },
+        {
+          "section_id": "English",
+          "title": {
+            "en": "English",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 3
+        },
+        {
+          "section_id": "General Knowledge",
+          "title": {
+            "en": "General Knowledge",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 4
+        }
+      ],
+      "file": "data/tests/ssc_cgl_2021_1.json",
+      "created_at": "2026-06-17T17:58:17.238Z",
+      "updated_at": "2026-06-17T17:58:17.238Z"
+    },
+    {
+      "test_id": "ssc_cgl_2022_2",
+      "id": "ssc_cgl_2022_2",
+      "exam_group": "SSC",
+      "exam": "SSC CGL",
+      "paper_type": "PYQ",
+      "year": 2022,
+      "subject": "General Intelligence",
+      "topic": "Mixed",
+      "category": "Full Test",
+      "title": "SSC CGL Mock Test 2",
+      "title_i18n": {
+        "en": "SSC CGL Mock Test 2",
+        "hi": "एसएससी सीजीएल मॉक टेस्ट 2"
+      },
+      "language_mode": "bilingual",
+      "duration": 60,
+      "negativeMarking": 0.25,
+      "negative_marking": 0.25,
+      "difficulty": "Moderate",
+      "questions": 10,
+      "totalQuestions": 10,
+      "marks": 10,
+      "totalMarks": 10,
+      "question_count": 10,
+      "difficulty_counts": {
+        "Easy": 0,
+        "Moderate": 10,
+        "Hard": 0
+      },
+      "section_difficulty_counts": {
+        "Quantitative Aptitude": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Intelligence": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "English": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Knowledge": {
+          "Easy": 0,
+          "Moderate": 4,
+          "Hard": 0
+        }
+      },
+      "sections": [
+        {
+          "section_id": "General Intelligence",
+          "title": {
+            "en": "General Intelligence",
+            "hi": "सामान्य बुद्धिमत्ता"
+          },
+          "sort_order": 1
+        },
+        {
+          "section_id": "Quantitative Aptitude",
+          "title": {
+            "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 2
+        },
+        {
+          "section_id": "English",
+          "title": {
+            "en": "English",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 3
+        },
+        {
+          "section_id": "General Knowledge",
+          "title": {
+            "en": "General Knowledge",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 4
+        }
+      ],
+      "file": "data/tests/ssc_cgl_2022_2.json",
+      "created_at": "2026-06-17T17:58:17.238Z",
+      "updated_at": "2026-06-17T17:58:17.238Z"
+    },
+    {
+      "test_id": "ssc_cgl_2023_3",
+      "id": "ssc_cgl_2023_3",
+      "exam_group": "SSC",
+      "exam": "SSC CGL",
+      "paper_type": "PYQ",
+      "year": 2023,
+      "subject": "General Intelligence",
+      "topic": "Mixed",
+      "category": "Full Test",
+      "title": "SSC CGL Mock Test 3",
+      "title_i18n": {
+        "en": "SSC CGL Mock Test 3",
+        "hi": "एसएससी सीजीएल मॉक टेस्ट 3"
+      },
+      "language_mode": "bilingual",
+      "duration": 60,
+      "negativeMarking": 0.25,
+      "negative_marking": 0.25,
+      "difficulty": "Moderate",
+      "questions": 10,
+      "totalQuestions": 10,
+      "marks": 10,
+      "totalMarks": 10,
+      "question_count": 10,
+      "difficulty_counts": {
+        "Easy": 0,
+        "Moderate": 10,
+        "Hard": 0
+      },
+      "section_difficulty_counts": {
+        "Quantitative Aptitude": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Intelligence": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "English": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Knowledge": {
+          "Easy": 0,
+          "Moderate": 4,
+          "Hard": 0
+        }
+      },
+      "sections": [
+        {
+          "section_id": "General Intelligence",
+          "title": {
+            "en": "General Intelligence",
+            "hi": "सामान्य बुद्धिमत्ता"
+          },
+          "sort_order": 1
+        },
+        {
+          "section_id": "Quantitative Aptitude",
+          "title": {
+            "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 2
+        },
+        {
+          "section_id": "English",
+          "title": {
+            "en": "English",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 3
+        },
+        {
+          "section_id": "General Knowledge",
+          "title": {
+            "en": "General Knowledge",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 4
+        }
+      ],
+      "file": "data/tests/ssc_cgl_2023_3.json",
+      "created_at": "2026-06-17T17:58:17.238Z",
+      "updated_at": "2026-06-17T17:58:17.238Z"
+    },
+    {
+      "test_id": "ssc_cgl_2020_4",
+      "id": "ssc_cgl_2020_4",
+      "exam_group": "SSC",
+      "exam": "SSC CGL",
+      "paper_type": "PYQ",
+      "year": 2024,
+      "subject": "General Intelligence",
+      "topic": "Mixed",
+      "category": "Full Test",
+      "title": "SSC CGL Mock Test 4",
+      "title_i18n": {
+        "en": "SSC CGL Mock Test 4",
+        "hi": "एसएससी सीजीएल मॉक टेस्ट 4"
+      },
+      "language_mode": "bilingual",
+      "duration": 60,
+      "negativeMarking": 0.25,
+      "negative_marking": 0.25,
+      "difficulty": "Moderate",
+      "questions": 10,
+      "totalQuestions": 10,
+      "marks": 10,
+      "totalMarks": 10,
+      "question_count": 10,
+      "difficulty_counts": {
+        "Easy": 0,
+        "Moderate": 10,
+        "Hard": 0
+      },
+      "section_difficulty_counts": {
+        "Quantitative Aptitude": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Intelligence": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "English": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Knowledge": {
+          "Easy": 0,
+          "Moderate": 4,
+          "Hard": 0
+        }
+      },
+      "sections": [
+        {
+          "section_id": "General Intelligence",
+          "title": {
+            "en": "General Intelligence",
+            "hi": "सामान्य बुद्धिमत्ता"
+          },
+          "sort_order": 1
+        },
+        {
+          "section_id": "Quantitative Aptitude",
+          "title": {
+            "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 2
+        },
+        {
+          "section_id": "English",
+          "title": {
+            "en": "English",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 3
+        },
+        {
+          "section_id": "General Knowledge",
+          "title": {
+            "en": "General Knowledge",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 4
+        }
+      ],
+      "file": "data/tests/ssc_cgl_2020_4.json",
+      "created_at": "2026-06-17T17:58:17.238Z",
+      "updated_at": "2026-06-17T17:58:17.238Z"
+    },
+    {
+      "test_id": "ssc_cgl_2021_5",
+      "id": "ssc_cgl_2021_5",
+      "exam_group": "SSC",
+      "exam": "SSC CGL",
+      "paper_type": "PYQ",
+      "year": 2020,
+      "subject": "General Intelligence",
+      "topic": "Mixed",
+      "category": "Full Test",
+      "title": "SSC CGL Mock Test 5",
+      "title_i18n": {
+        "en": "SSC CGL Mock Test 5",
+        "hi": "एसएससी सीजीएल मॉक टेस्ट 5"
+      },
+      "language_mode": "bilingual",
+      "duration": 60,
+      "negativeMarking": 0.25,
+      "negative_marking": 0.25,
+      "difficulty": "Moderate",
+      "questions": 10,
+      "totalQuestions": 10,
+      "marks": 10,
+      "totalMarks": 10,
+      "question_count": 10,
+      "difficulty_counts": {
+        "Easy": 0,
+        "Moderate": 10,
+        "Hard": 0
+      },
+      "section_difficulty_counts": {
+        "Quantitative Aptitude": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Intelligence": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "English": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Knowledge": {
+          "Easy": 0,
+          "Moderate": 4,
+          "Hard": 0
+        }
+      },
+      "sections": [
+        {
+          "section_id": "General Intelligence",
+          "title": {
+            "en": "General Intelligence",
+            "hi": "सामान्य बुद्धिमत्ता"
+          },
+          "sort_order": 1
+        },
+        {
+          "section_id": "Quantitative Aptitude",
+          "title": {
+            "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 2
+        },
+        {
+          "section_id": "English",
+          "title": {
+            "en": "English",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 3
+        },
+        {
+          "section_id": "General Knowledge",
+          "title": {
+            "en": "General Knowledge",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 4
+        }
+      ],
+      "file": "data/tests/ssc_cgl_2021_5.json",
+      "created_at": "2026-06-17T17:58:17.238Z",
+      "updated_at": "2026-06-17T17:58:17.238Z"
+    },
+    {
+      "test_id": "ssc_cgl_2022_6",
+      "id": "ssc_cgl_2022_6",
+      "exam_group": "SSC",
+      "exam": "SSC CGL",
+      "paper_type": "PYQ",
+      "year": 2021,
+      "subject": "General Intelligence",
+      "topic": "Mixed",
+      "category": "Full Test",
+      "title": "SSC CGL Mock Test 6",
+      "title_i18n": {
+        "en": "SSC CGL Mock Test 6",
+        "hi": "एसएससी सीजीएल मॉक टेस्ट 6"
+      },
+      "language_mode": "bilingual",
+      "duration": 60,
+      "negativeMarking": 0.25,
+      "negative_marking": 0.25,
+      "difficulty": "Moderate",
+      "questions": 10,
+      "totalQuestions": 10,
+      "marks": 10,
+      "totalMarks": 10,
+      "question_count": 10,
+      "difficulty_counts": {
+        "Easy": 0,
+        "Moderate": 10,
+        "Hard": 0
+      },
+      "section_difficulty_counts": {
+        "Quantitative Aptitude": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Intelligence": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "English": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Knowledge": {
+          "Easy": 0,
+          "Moderate": 4,
+          "Hard": 0
+        }
+      },
+      "sections": [
+        {
+          "section_id": "General Intelligence",
+          "title": {
+            "en": "General Intelligence",
+            "hi": "सामान्य बुद्धिमत्ता"
+          },
+          "sort_order": 1
+        },
+        {
+          "section_id": "Quantitative Aptitude",
+          "title": {
+            "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 2
+        },
+        {
+          "section_id": "English",
+          "title": {
+            "en": "English",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 3
+        },
+        {
+          "section_id": "General Knowledge",
+          "title": {
+            "en": "General Knowledge",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 4
+        }
+      ],
+      "file": "data/tests/ssc_cgl_2022_6.json",
+      "created_at": "2026-06-17T17:58:17.238Z",
+      "updated_at": "2026-06-17T17:58:17.238Z"
+    },
+    {
+      "test_id": "ssc_cgl_2023_7",
+      "id": "ssc_cgl_2023_7",
+      "exam_group": "SSC",
+      "exam": "SSC CGL",
+      "paper_type": "PYQ",
+      "year": 2022,
+      "subject": "General Intelligence",
+      "topic": "Mixed",
+      "category": "Full Test",
+      "title": "SSC CGL Mock Test 7",
+      "title_i18n": {
+        "en": "SSC CGL Mock Test 7",
+        "hi": "एसएससी सीजीएल मॉक टेस्ट 7"
+      },
+      "language_mode": "bilingual",
+      "duration": 60,
+      "negativeMarking": 0.25,
+      "negative_marking": 0.25,
+      "difficulty": "Moderate",
+      "questions": 10,
+      "totalQuestions": 10,
+      "marks": 10,
+      "totalMarks": 10,
+      "question_count": 10,
+      "difficulty_counts": {
+        "Easy": 0,
+        "Moderate": 10,
+        "Hard": 0
+      },
+      "section_difficulty_counts": {
+        "Quantitative Aptitude": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Intelligence": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "English": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Knowledge": {
+          "Easy": 0,
+          "Moderate": 4,
+          "Hard": 0
+        }
+      },
+      "sections": [
+        {
+          "section_id": "General Intelligence",
+          "title": {
+            "en": "General Intelligence",
+            "hi": "सामान्य बुद्धिमत्ता"
+          },
+          "sort_order": 1
+        },
+        {
+          "section_id": "Quantitative Aptitude",
+          "title": {
+            "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 2
+        },
+        {
+          "section_id": "English",
+          "title": {
+            "en": "English",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 3
+        },
+        {
+          "section_id": "General Knowledge",
+          "title": {
+            "en": "General Knowledge",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 4
+        }
+      ],
+      "file": "data/tests/ssc_cgl_2023_7.json",
+      "created_at": "2026-06-17T17:58:17.238Z",
+      "updated_at": "2026-06-17T17:58:17.238Z"
+    },
+    {
+      "test_id": "ssc_cgl_2020_8",
+      "id": "ssc_cgl_2020_8",
+      "exam_group": "SSC",
+      "exam": "SSC CGL",
+      "paper_type": "PYQ",
+      "year": 2023,
+      "subject": "General Intelligence",
+      "topic": "Mixed",
+      "category": "Full Test",
+      "title": "SSC CGL Mock Test 8",
+      "title_i18n": {
+        "en": "SSC CGL Mock Test 8",
+        "hi": "एसएससी सीजीएल मॉक टेस्ट 8"
+      },
+      "language_mode": "bilingual",
+      "duration": 60,
+      "negativeMarking": 0.25,
+      "negative_marking": 0.25,
+      "difficulty": "Moderate",
+      "questions": 10,
+      "totalQuestions": 10,
+      "marks": 10,
+      "totalMarks": 10,
+      "question_count": 10,
+      "difficulty_counts": {
+        "Easy": 0,
+        "Moderate": 10,
+        "Hard": 0
+      },
+      "section_difficulty_counts": {
+        "Quantitative Aptitude": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Intelligence": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "English": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Knowledge": {
+          "Easy": 0,
+          "Moderate": 4,
+          "Hard": 0
+        }
+      },
+      "sections": [
+        {
+          "section_id": "General Intelligence",
+          "title": {
+            "en": "General Intelligence",
+            "hi": "सामान्य बुद्धिमत्ता"
+          },
+          "sort_order": 1
+        },
+        {
+          "section_id": "Quantitative Aptitude",
+          "title": {
+            "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 2
+        },
+        {
+          "section_id": "English",
+          "title": {
+            "en": "English",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 3
+        },
+        {
+          "section_id": "General Knowledge",
+          "title": {
+            "en": "General Knowledge",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 4
+        }
+      ],
+      "file": "data/tests/ssc_cgl_2020_8.json",
+      "created_at": "2026-06-17T17:58:17.238Z",
+      "updated_at": "2026-06-17T17:58:17.238Z"
+    },
+    {
+      "test_id": "ssc_cgl_2021_9",
+      "id": "ssc_cgl_2021_9",
+      "exam_group": "SSC",
+      "exam": "SSC CGL",
+      "paper_type": "PYQ",
+      "year": 2024,
+      "subject": "General Intelligence",
+      "topic": "Mixed",
+      "category": "Full Test",
+      "title": "SSC CGL Mock Test 9",
+      "title_i18n": {
+        "en": "SSC CGL Mock Test 9",
+        "hi": "एसएससी सीजीएल मॉक टेस्ट 9"
+      },
+      "language_mode": "bilingual",
+      "duration": 60,
+      "negativeMarking": 0.25,
+      "negative_marking": 0.25,
+      "difficulty": "Moderate",
+      "questions": 10,
+      "totalQuestions": 10,
+      "marks": 10,
+      "totalMarks": 10,
+      "question_count": 10,
+      "difficulty_counts": {
+        "Easy": 0,
+        "Moderate": 10,
+        "Hard": 0
+      },
+      "section_difficulty_counts": {
+        "Quantitative Aptitude": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Intelligence": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "English": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Knowledge": {
+          "Easy": 0,
+          "Moderate": 4,
+          "Hard": 0
+        }
+      },
+      "sections": [
+        {
+          "section_id": "General Intelligence",
+          "title": {
+            "en": "General Intelligence",
+            "hi": "सामान्य बुद्धिमत्ता"
+          },
+          "sort_order": 1
+        },
+        {
+          "section_id": "Quantitative Aptitude",
+          "title": {
+            "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 2
+        },
+        {
+          "section_id": "English",
+          "title": {
+            "en": "English",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 3
+        },
+        {
+          "section_id": "General Knowledge",
+          "title": {
+            "en": "General Knowledge",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 4
+        }
+      ],
+      "file": "data/tests/ssc_cgl_2021_9.json",
+      "created_at": "2026-06-17T17:58:17.238Z",
+      "updated_at": "2026-06-17T17:58:17.238Z"
+    },
+    {
+      "test_id": "ssc_cgl_2022_10",
+      "id": "ssc_cgl_2022_10",
+      "exam_group": "SSC",
+      "exam": "SSC CGL",
+      "paper_type": "PYQ",
+      "year": 2020,
+      "subject": "General Intelligence",
+      "topic": "Mixed",
+      "category": "Full Test",
+      "title": "SSC CGL Mock Test 10",
+      "title_i18n": {
+        "en": "SSC CGL Mock Test 10",
+        "hi": "एसएससी सीजीएल मॉक टेस्ट 10"
+      },
+      "language_mode": "bilingual",
+      "duration": 60,
+      "negativeMarking": 0.25,
+      "negative_marking": 0.25,
+      "difficulty": "Moderate",
+      "questions": 10,
+      "totalQuestions": 10,
+      "marks": 10,
+      "totalMarks": 10,
+      "question_count": 10,
+      "difficulty_counts": {
+        "Easy": 0,
+        "Moderate": 10,
+        "Hard": 0
+      },
+      "section_difficulty_counts": {
+        "Quantitative Aptitude": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Intelligence": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "English": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        },
+        "General Knowledge": {
+          "Easy": 0,
+          "Moderate": 4,
+          "Hard": 0
+        }
+      },
+      "sections": [
+        {
+          "section_id": "General Intelligence",
+          "title": {
+            "en": "General Intelligence",
+            "hi": "सामान्य बुद्धिमत्ता"
+          },
+          "sort_order": 1
+        },
+        {
+          "section_id": "Quantitative Aptitude",
+          "title": {
+            "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 2
+        },
+        {
+          "section_id": "English",
+          "title": {
+            "en": "English",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 3
+        },
+        {
+          "section_id": "General Knowledge",
+          "title": {
+            "en": "General Knowledge",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 4
+        }
+      ],
+      "file": "data/tests/ssc_cgl_2022_10.json",
+      "created_at": "2026-06-17T17:58:17.238Z",
+      "updated_at": "2026-06-17T17:58:17.238Z"
+    },
+    {
+      "test_id": "ssc_cgl_2022_11",
+      "id": "ssc_cgl_2022_11",
+      "exam_group": "SSC",
+      "exam": "SSC CGL",
+      "paper_type": "PYQ",
+      "year": 2020,
+      "subject": "General Intelligence",
+      "topic": "Mixed",
+      "category": "Full Test",
+      "title": "SSC CGL Mock Test 11",
+      "title_i18n": {
+        "en": "SSC CGL Mock Test 11",
+        "hi": "एसएससी सीजीएल मॉक टेस्ट 11"
+      },
+      "language_mode": "bilingual",
+      "duration": 60,
+      "negativeMarking": 0.25,
+      "negative_marking": 0.25,
+      "difficulty": "Moderate",
+      "questions": 5,
+      "totalQuestions": 5,
+      "marks": 5,
+      "totalMarks": 5,
+      "question_count": 5,
+      "difficulty_counts": {
+        "Easy": 0,
+        "Moderate": 5,
+        "Hard": 0
+      },
+      "section_difficulty_counts": {
+        "Quantitative Aptitude": {
+          "Easy": 0,
+          "Moderate": 1,
+          "Hard": 0
+        },
+        "General Intelligence": {
+          "Easy": 0,
+          "Moderate": 1,
+          "Hard": 0
+        },
+        "English": {
+          "Easy": 0,
+          "Moderate": 1,
+          "Hard": 0
+        },
+        "General Knowledge": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        }
+      },
+      "sections": [
+        {
+          "section_id": "General Intelligence",
+          "title": {
+            "en": "General Intelligence",
+            "hi": "सामान्य बुद्धिमत्ता"
+          },
+          "sort_order": 1
+        },
+        {
+          "section_id": "Quantitative Aptitude",
+          "title": {
+            "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 2
+        },
+        {
+          "section_id": "English",
+          "title": {
+            "en": "English",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 3
+        },
+        {
+          "section_id": "General Knowledge",
+          "title": {
+            "en": "General Knowledge",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 4
+        }
+      ],
+      "file": "data/tests/ssc_cgl_2022_11.json",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "test_id": "rrb_ntpc_2022_12",
+      "id": "rrb_ntpc_2022_12",
+      "exam_group": "RRB",
+      "exam": "RRB NTPC",
+      "paper_type": "PYQ",
+      "year": 2020,
+      "subject": "Mixed",
+      "topic": "Mixed",
+      "category": "Full Test",
+      "title": "RRB NTPC Mock Test 12",
+      "title_i18n": {
+        "en": "RRB NTPC Mock Test 12",
+        "hi": "मॉक टेस्ट 12"
+      },
+      "language_mode": "bilingual",
+      "duration": 60,
+      "negativeMarking": 0.25,
+      "negative_marking": 0.25,
+      "difficulty": "Moderate",
+      "questions": 8,
+      "totalQuestions": 8,
+      "marks": 8,
+      "totalMarks": 8,
+      "question_count": 8,
+      "difficulty_counts": {
+        "Easy": 0,
+        "Moderate": 8,
+        "Hard": 0
+      },
+      "section_difficulty_counts": {
+        "Quantitative Aptitude": {
+          "Easy": 0,
+          "Moderate": 1,
+          "Hard": 0
+        },
+        "General Intelligence": {
+          "Easy": 0,
+          "Moderate": 1,
+          "Hard": 0
+        },
+        "English": {
+          "Easy": 0,
+          "Moderate": 4,
+          "Hard": 0
+        },
+        "General Knowledge": {
+          "Easy": 0,
+          "Moderate": 2,
+          "Hard": 0
+        }
+      },
+      "sections": [
+        {
+          "section_id": "General Intelligence",
+          "title": {
+            "en": "General Intelligence",
+            "hi": "सामान्य बुद्धिमत्ता"
+          },
+          "sort_order": 1
+        },
+        {
+          "section_id": "Quantitative Aptitude",
+          "title": {
+            "en": "Quantitative Aptitude",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 2
+        },
+        {
+          "section_id": "English",
+          "title": {
+            "en": "English",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 3
+        },
+        {
+          "section_id": "General Knowledge",
+          "title": {
+            "en": "General Knowledge",
+            "hi": "मात्रात्मक योग्यता"
+          },
+          "sort_order": 4
+        }
+      ],
+      "file": "data/tests/rrb_ntpc_2022_12.json",
+      "created_at": "",
+      "updated_at": ""
+    }
+  ]
+}
