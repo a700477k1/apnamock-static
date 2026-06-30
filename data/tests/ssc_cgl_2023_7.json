@@ -1,0 +1,463 @@
+{
+  "testId": "ssc_cgl_2023_7",
+  "test_id": "ssc_cgl_2023_7",
+  "title": "SSC CGL Mock Test 7",
+  "title_i18n": {
+    "en": "SSC CGL Mock Test 7",
+    "hi": "एसएससी सीजीएल मॉक टेस्ट 7"
+  },
+  "exam_group": "SSC",
+  "exam": "SSC CGL",
+  "paper_type": "PYQ",
+  "year": 2022,
+  "subject": "General Intelligence",
+  "topic": "Mixed",
+  "category": "Full Test",
+  "duration": 60,
+  "totalQuestions": 10,
+  "totalMarks": 10,
+  "negativeMarking": 0.25,
+  "language_mode": "bilingual",
+  "sections": [
+    {
+      "section_id": "General Intelligence",
+      "title": {
+        "en": "General Intelligence",
+        "hi": "सामान्य बुद्धिमत्ता"
+      }
+    },
+    {
+      "section_id": "Quantitative Aptitude",
+      "title": {
+        "en": "Quantitative Aptitude",
+        "hi": "मात्रात्मक योग्यता"
+      }
+    },
+    {
+      "section_id": "English",
+      "title": {
+        "en": "English",
+        "hi": "मात्रात्मक योग्यता"
+      }
+    },
+    {
+      "section_id": "General Knowledge",
+      "title": {
+        "en": "General Knowledge",
+        "hi": "मात्रात्मक योग्यता"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q1",
+      "question": {
+        "en": "What is sample question 1?",
+        "hi": "नमूना प्रश्न 1 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 2,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "Quantitative Aptitude",
+      "explanation": {
+        "en": "Explanation for question 1",
+        "hi": "प्रश्न 1 का स्पष्टीकरण"
+      },
+      "explanation_image": "",
+      "sectionId": "Quantitative Aptitude"
+    },
+    {
+      "id": "Q2",
+      "question": {
+        "en": "What is sample question 2?",
+        "hi": "नमूना प्रश्न 2 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 2,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "General Intelligence",
+      "explanation": {
+        "en": "Explanation for question 2",
+        "hi": "प्रश्न 2 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
+      "sectionId": "General Intelligence"
+    },
+    {
+      "id": "Q3",
+      "question": {
+        "en": "What is sample question 3?",
+        "hi": "नमूना प्रश्न 3 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 2,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "English",
+      "explanation": {
+        "en": "Explanation for question 3",
+        "hi": "प्रश्न 3 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
+      "sectionId": "English"
+    },
+    {
+      "id": "Q4",
+      "question": {
+        "en": "What is sample question 4?",
+        "hi": "नमूना प्रश्न 4 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "General Knowledge",
+      "explanation": {
+        "en": "Explanation for question 4",
+        "hi": "प्रश्न 4 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
+      "sectionId": "General Knowledge"
+    },
+    {
+      "id": "Q5",
+      "question": {
+        "en": "What is sample question 5?",
+        "hi": "नमूना प्रश्न 5 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "General Knowledge",
+      "explanation": {
+        "en": "Explanation for question 5",
+        "hi": "प्रश्न 5 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
+      "sectionId": "General Knowledge"
+    },
+    {
+      "id": "Q6",
+      "question": {
+        "en": "What is sample question 6?",
+        "hi": "नमूना प्रश्न 6 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "Quantitative Aptitude",
+      "explanation": {
+        "en": "Explanation for question 6",
+        "hi": "प्रश्न 6 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
+      "sectionId": "Quantitative Aptitude"
+    },
+    {
+      "id": "Q7",
+      "question": {
+        "en": "What is sample question 7?",
+        "hi": "नमूना प्रश्न 7 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "General Intelligence",
+      "explanation": {
+        "en": "Explanation for question 7",
+        "hi": "प्रश्न 7 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
+      "sectionId": "General Intelligence"
+    },
+    {
+      "id": "Q8",
+      "question": {
+        "en": "What is sample question 8?",
+        "hi": "नमूना प्रश्न 8 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "English",
+      "explanation": {
+        "en": "Explanation for question 8",
+        "hi": "प्रश्न 8 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
+      "sectionId": "English"
+    },
+    {
+      "id": "Q9",
+      "question": {
+        "en": "What is sample question 9?",
+        "hi": "नमूना प्रश्न 9 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option A",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "General Knowledge",
+      "explanation": {
+        "en": "Explanation for question 9",
+        "hi": "प्रश्न 9 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
+      "sectionId": "General Knowledge"
+    },
+    {
+      "id": "Q10",
+      "question": {
+        "en": "What is sample question 10?",
+        "hi": "नमूना प्रश्न 10 क्या है?"
+      },
+      "question_image": "",
+      "options": [
+        {
+          "en": "Option Aa",
+          "hi": "विकल्प A",
+          "image": ""
+        },
+        {
+          "en": "Option B",
+          "hi": "विकल्प B",
+          "image": ""
+        },
+        {
+          "en": "Option C",
+          "hi": "विकल्प C",
+          "image": ""
+        },
+        {
+          "en": "Option D",
+          "hi": "विकल्प D",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "marks": 1,
+      "negativeMarks": 0.25,
+      "difficulty": "Moderate",
+      "topic": "General Knowledge",
+      "explanation": {
+        "en": "Explanation for question 10",
+        "hi": "प्रश्न 10 का स्पष्टीकरण"
+      },
+      "explanation_image": false,
+      "sectionId": "General Knowledge"
+    }
+  ]
+}
